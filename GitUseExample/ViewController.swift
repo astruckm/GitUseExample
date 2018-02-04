@@ -27,10 +27,5 @@ class ViewController: UIViewController {
         print(counter)
     }
     
-    
-    
-    
-    
-    
 }
 
