@@ -25,6 +25,7 @@ class ViewController: UIViewController {
     @IBAction func justAnExampleButton(_ sender: Any) {
         counter += 1
         print(counter)
+        print("You finished!")
     }
     
 }
